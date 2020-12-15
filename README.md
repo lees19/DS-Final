@@ -50,5 +50,8 @@ This project shows how we can use PCA in order to reduce the time and space need
 
 ## References
 [1] [MNIST dataset with Keras] (https://keras.io/api/datasets/)
+
 [2] [PCA from Scikit-Learn] (https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html)
+
 [3] [MLPClassifier from Scikit-Learn] (https://scikit-learn.org/stable/modules/generated/sklearn.neural_network.MLPClassifier.html)
+
