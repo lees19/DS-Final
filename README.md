@@ -42,7 +42,7 @@ Where we see the reduced train and test set achieved an accuracy of 95.95% in ab
 
 ![acc vs comp](./accvscomp.png)
 
-As can be seen, we reach an accuracy of more than 90% with less than 50 components utilized.
+As can be seen, we reach an accuracy of more than 80% with less than 50 components utilized, which is not that far from the accuracy when all 784 components are used.
 
 ## Discussion
 Dimensionality reduction is a great way to save time and resources if done correctly. Just because there is a large volume of data does not mean it is all useful or relevant to your objective. Here we show that just using about 1/8th of the total data we had, we can achieve an accuracy almost identical to a model using the full data set while taking a fraction of the time to train. 
