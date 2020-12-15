@@ -38,7 +38,7 @@ So we see that the first 100 components actually captures the originial dataset 
 
 ![time screenshot](./time.png)
 
-Where we see the reduced train and test set achieved an accuracy of 95.95% in about 18 seconds while our original train and test set achieved an accuracy of 96.15% in about 64 seconds. Here, we also see how quickly the components increase the accuracy: 
+Where we see the reduced train and test set achieved an accuracy of 95.95% in about 18 seconds while our original train and test set achieved an accuracy of 96.15% in about 64 seconds. Here, we also see how quickly the accuracy increase with the components: 
 
 ![acc vs comp](./accvscomp.png)
 
