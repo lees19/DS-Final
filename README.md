@@ -38,6 +38,7 @@ So we see that the first 100 components actually captures the originial dataset 
 
 ![time screenshot](./time.png)
 
+Our reduced train and test set achieved an accuracy of 95.9
 ## Discussion
 Dimensionality reduction is a great way to save time and resources if done correctly. Just because there is a large volume of data does not mean it is all useful or relevant to your objective. Here we show that just using about 1/8th of the total data we had, we can achieve an accuracy almost identical to a model using the full data set while taking a fraction of the time to train. 
 
