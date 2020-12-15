@@ -1,5 +1,4 @@
-# DS Final
- Data Science Final Project
+# PCA Dimensionality Reduction Effects on Training Handwritten Digit Classifier
 
 ## Introduction
 The objective of this project is to see the effects of dimensionality reduction on training neural networks, specifically to see the effects of dimensionality reduction on a MLPClassifier for recognizing handwritten digits and how dimensionality reduction can help with saving both space and time. 
