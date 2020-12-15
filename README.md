@@ -47,3 +47,8 @@ We are interested in how these observations can generalize to other problems inv
 
 ## Summary
 This project shows how we can use PCA in order to reduce the time and space needed to train neural networks. We achieved almost the same accuracy with 100 components as we did with our original data set within a fraction of the time. 
+
+## References
+[1] [MNIST dataset with Keras] (https://keras.io/api/datasets/)
+[2] [PCA from Scikit-Learn] (https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html)
+[3] [MLPClassifier from Scikit-Learn] (https://scikit-learn.org/stable/modules/generated/sklearn.neural_network.MLPClassifier.html)
